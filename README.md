@@ -67,7 +67,10 @@ Me chamo Antonio Neto, tenho 20 anos e sou natural de São Paulo. Concluí o ens
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
 )
 
+<br/>
+<br/>
 
-
-![Snake animation](https://github.com/oliveriraneto/oliveriraneto/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://media1.tenor.com/m/omMgRMjESeAAAAAC/subaru-re-zero-subaru.gif" width="200px">
+</div>
 
